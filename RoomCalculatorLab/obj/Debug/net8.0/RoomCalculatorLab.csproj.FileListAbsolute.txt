@@ -1,0 +1,14 @@
+C:\Users\elire\source\repos\RoomCalculatorLab\RoomCalculatorLab\bin\Debug\net8.0\RoomCalculatorLab.exe
+C:\Users\elire\source\repos\RoomCalculatorLab\RoomCalculatorLab\bin\Debug\net8.0\RoomCalculatorLab.deps.json
+C:\Users\elire\source\repos\RoomCalculatorLab\RoomCalculatorLab\bin\Debug\net8.0\RoomCalculatorLab.runtimeconfig.json
+C:\Users\elire\source\repos\RoomCalculatorLab\RoomCalculatorLab\bin\Debug\net8.0\RoomCalculatorLab.dll
+C:\Users\elire\source\repos\RoomCalculatorLab\RoomCalculatorLab\bin\Debug\net8.0\RoomCalculatorLab.pdb
+C:\Users\elire\source\repos\RoomCalculatorLab\RoomCalculatorLab\obj\Debug\net8.0\RoomCalculatorLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elire\source\repos\RoomCalculatorLab\RoomCalculatorLab\obj\Debug\net8.0\RoomCalculatorLab.AssemblyInfoInputs.cache
+C:\Users\elire\source\repos\RoomCalculatorLab\RoomCalculatorLab\obj\Debug\net8.0\RoomCalculatorLab.AssemblyInfo.cs
+C:\Users\elire\source\repos\RoomCalculatorLab\RoomCalculatorLab\obj\Debug\net8.0\RoomCalculatorLab.csproj.CoreCompileInputs.cache
+C:\Users\elire\source\repos\RoomCalculatorLab\RoomCalculatorLab\obj\Debug\net8.0\RoomCalculatorLab.dll
+C:\Users\elire\source\repos\RoomCalculatorLab\RoomCalculatorLab\obj\Debug\net8.0\refint\RoomCalculatorLab.dll
+C:\Users\elire\source\repos\RoomCalculatorLab\RoomCalculatorLab\obj\Debug\net8.0\RoomCalculatorLab.pdb
+C:\Users\elire\source\repos\RoomCalculatorLab\RoomCalculatorLab\obj\Debug\net8.0\RoomCalculatorLab.genruntimeconfig.cache
+C:\Users\elire\source\repos\RoomCalculatorLab\RoomCalculatorLab\obj\Debug\net8.0\ref\RoomCalculatorLab.dll
